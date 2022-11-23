@@ -1,0 +1,571 @@
+- hostname: fans.sonichu.com
+  public_comment: bullying, racism
+  severity: suspend
+- hostname: bae.st
+  public_comment: fashism, harassment
+  severity: suspend
+- hostname: eatthebugs.social
+  public_comment: antisemitism
+  severity: suspend
+- hostname: pooper.social
+  public_comment: racism
+  severity: suspend
+- hostname: seal.cafe
+  public_comment: TransMisia
+  severity: suspend
+- hostname: rojogato.com
+  public_comment: Racism, TransMisia, ableism
+  severity: suspend
+- hostname: eveningzoo.club
+  public_comment: HomoMisia
+  severity: suspend
+- hostname: cybercrusade.xyz
+  public_comment: ableism
+  severity: suspend
+- hostname: rapemeat.solutions
+  public_comment: Rape, pedophilia, lolicon
+  severity: suspend
+- hostname: pmth.us
+  public_comment: TransMisia
+  severity: suspend
+- hostname: bea.st
+  public_comment: fashism
+  severity: suspend
+- hostname: 101010.pl
+  public_comment: fascism, HomoMisia, TransMisia
+  severity: suspend
+- hostname: kcl.academy
+  public_comment: (covid/ukraine) conspiracy theories
+  severity: suspend
+- hostname: truthsocial.co.in
+  public_comment: fashism
+  severity: suspend
+- hostname: social.freetalklive.com
+  public_comment: ancap, libertarianism
+  severity: suspend
+- hostname: rusoc.xyz
+  public_comment: racism
+  severity: suspend
+- hostname: liberdon.com
+  public_comment: ancap, libertarianism
+  severity: suspend
+- hostname: "\u0441\u0440\u0451\u0442.\u043E\u043D\u043B\u0430\u0439\u043D"
+  public_comment: racism, HomoMisia, TransMisia
+  severity: suspend
+- hostname: hunk.city
+  public_comment: fashism, spam
+  severity: suspend
+- hostname: milker.cafe
+  public_comment: lolicon
+  severity: suspend
+- hostname: social.076.ne.jp
+  public_comment: national socialism, racism, TransMisia lolicon
+  severity: suspend
+- hostname: gameliberty.club
+  public_comment: racism, FreeSpeech, lolicon
+  severity: suspend
+- hostname: shortstackran.ch
+  public_comment: TransMisia, racism, ableism, harassment
+  severity: suspend
+- hostname: freeatlantis.com
+  public_comment: Trumpism, Ultra-MAGA
+  severity: suspend
+- hostname: ryona.agency
+  public_comment: racism, anti semitism, misogyny, TransMisia,
+  severity: suspend
+- hostname: pleroma.narrativerry.xyz
+  public_comment: HomoMisia, glorifying killings
+  severity: suspend
+- hostname: beefyboys.win
+  public_comment: national socialism
+  severity: suspend
+- hostname: social.lovingexpressions.net
+  public_comment: national socialism
+  severity: suspend
+- hostname: pleroma.kitsunemimi.club
+  public_comment: racism, harassment, TransMisia
+  severity: suspend
+- hostname: uwu.social
+  public_comment: national socialism
+  severity: suspend
+- hostname: cachapa.moe
+  public_comment: national socialism
+  severity: suspend
+- hostname: glowers.club
+  public_comment: HomoMisia, racism
+  severity: suspend
+- hostname: rdrama.cc
+  public_comment: racism
+  severity: suspend
+- hostname: pieville.net
+  public_comment: anti semitism, national socialism, racism, ableism, HomoMisia
+  severity: suspend
+- hostname: bestgore.fun
+  public_comment: gore, making fun of executions
+  severity: suspend
+- hostname: yggdrasil.social
+  public_comment: national socialism, racism, TransMisia
+  severity: suspend
+- hostname: cum.salon
+  public_comment: HomoMisia, racism, suicide-proposal
+  severity: suspend
+- hostname: varishangout.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: honkwerx.tech
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: fedi.anti-degeneracy.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: nicecrew.digital
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: zetamu.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: helladoge.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.eientei.org
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: raygungothic.xyz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: cunny.finance
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freewahaextremist.soy
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freewahaextremist.wtf
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: desupost.soy
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.fbxl.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: wolfgirl.bar
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: sleepy.cafe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: justicewarrior.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: etiketi.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.skyshanty.xyz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.handholding.io
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: clubcyberia.co
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: silkhe.art
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: childpawn.shop
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: mulmeyun.church
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: truthsocial.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: detroitriotcity.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: cum.desupost.soy
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: leafposter.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.nobodyhasthe.biz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: solagg.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: app.kenhbit.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freak.university
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: genitalia.observer
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: unholy-lair.69.mu
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: youjo.love
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.quodverum.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: masochi.st
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: fedi.murky.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.soykaf.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: gearlandia.haus
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.slash.cl
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.ancreport.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: beefyboys.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freecumextremist.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: loli.pizza
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: kisslolis.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: rakket.app
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: strelizia.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pedo.school
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: daishouri.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: ns.auction
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: fluf.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: www.bigguys.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: masthead.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: goyim.app
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: hentai.baby
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: posting.lolicon.rocks
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.thj.no
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: degenerates.fail
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.wysteriary.art
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: gitmo.life
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: sayit.world
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: tcode.kenfm.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: quanta.wiki
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.teci.world
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: godspeed.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: nazi.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: skins.gay
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freespeech.group
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.i2p.rocks
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: mastodon.city
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: lain.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: video.nobodyhasthe.biz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: peertube.sharivegas.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: midnightride.rs
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: videos.martinezperspective.org
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: clubcyberia.co
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pt.pube.tk
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: libre.video
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: tube.querdenken-711.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freedomofpress.rocks
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: devtube.dev-wiki.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: socnet.supes.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: thecitadel.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: glowers.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: jojo.singleuser.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: rayn.bo
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.nobodyhasthe.biz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: fiume.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: frennet.link
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.anon-kenkai.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: paypig.org
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: poa.st
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: bitcoinhackers.org
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freemarketbastard.theburning.world
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: oursocialism.today
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pieville.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: based.directory
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: NoAgenda.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: noagendasocial.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: meta-tube.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: wiki-tube.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: tube.kenfm.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.quodverum.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: lush.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: lush.moelc.imexile.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: alive.bar
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: mstdn.jp
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pawoo.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: memehub.eu
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: club.darknight-coffee.org
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pleroma.us
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freespeech.firedragonstudios.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: animalliberation.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: rage.lol
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: gameliberty.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: spinster.xyz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: baraag.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: stupid.moe
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: santsenques.cat
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: wintermute.fr.to
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: gorf.pub
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: gleasonator.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.urspringer.de
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: 10minutepleroma.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: ligma.pro
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: theres.life
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: shitposter.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: cyberfuck.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: kiwifarms.cc
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freethinkers.host
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freethinkers.lgbt
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: neckbeard.xyz
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: freespeechextremist.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.smuglo.li
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: pl.smugloli.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: anime.website
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: hitchhiker.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: iddqd.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: bittube.video
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: banana.dog
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.beepboop.ga
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: social.redxen.eu
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: societal.co
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: cawfee.club
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: yggdrasil.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: wurm.host
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: traboone.com
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: lain.sh
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: brighteon.social
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: counter.fedi.live
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: springbo.cc
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+- hostname: toot.canberrasocial.net
+  public_comment: taken from a.rathersafe.space
+  severity: suspend
+
