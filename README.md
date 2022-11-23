@@ -19,6 +19,7 @@ First, make sure you have a Python 3 environment set up. If you don't have one, 
     ```bash
     python importer.py
     ```
+5. Feel free to delete the application you created if you want.
 
 ## Advanced usage
 This script can import any list that conforms to this YAML format:
