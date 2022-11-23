@@ -7,8 +7,6 @@ INSTANCE_URL = ""
 CLIENT_ID = ""
 CLIENT_SECRET = ""
 
-LIST_URL = "https://joinfediverse.wiki/FediBlock"
-
 @click.command()
 @click.option('--list', default='lists/paulatothepeople.yaml', help='The list to import.')
 def main(list):
