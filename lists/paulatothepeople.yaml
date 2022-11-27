@@ -1,5 +1,20 @@
+- hostname: mastodon.se
+  public_comment: AntiSemitism
+  severity: suspend
+- hostname: privex.social
+  public_comment: fashism, harassment
+  severity: suspend
+- hostname: froth.zone
+  public_comment: harassment, racism
+  severity: suspend
+- hostname: obo.sh
+  public_comment: FreeSpeech, no moderation
+  severity: suspend
+- hostname: genderheretics.xyz
+  public_comment: TransMisia, making fun of suicide
+  severity: suspend
 - hostname: fans.sonichu.com
-  public_comment: bullying, racism
+  public_comment: harassment, racism
   severity: suspend
 - hostname: bae.st
   public_comment: fashism, harassment
@@ -27,9 +42,6 @@
   severity: suspend
 - hostname: pmth.us
   public_comment: TransMisia
-  severity: suspend
-- hostname: bea.st
-  public_comment: fashism
   severity: suspend
 - hostname: 101010.pl
   public_comment: fascism, HomoMisia, TransMisia
@@ -60,9 +72,6 @@
   severity: suspend
 - hostname: social.076.ne.jp
   public_comment: national socialism, racism, TransMisia lolicon
-  severity: suspend
-- hostname: gameliberty.club
-  public_comment: racism, FreeSpeech, lolicon
   severity: suspend
 - hostname: shortstackran.ch
   public_comment: TransMisia, racism, ableism, harassment
@@ -383,7 +392,7 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: poa.st
-  public_comment: taken from a.rathersafe.space
+  public_comment: racism, misogyny, HomoMisia, violence, FreeSpeech, disinformation
   severity: suspend
 - hostname: bitcoinhackers.org
   public_comment: taken from a.rathersafe.space
@@ -401,10 +410,10 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: NoAgenda.social
-  public_comment: taken from a.rathersafe.space
+  public_comment: AntiSemitism, racism
   severity: suspend
 - hostname: noagendasocial.com
-  public_comment: taken from a.rathersafe.space
+  public_comment: AntiSemitism, racism
   severity: suspend
 - hostname: meta-tube.de
   public_comment: taken from a.rathersafe.space
@@ -431,7 +440,7 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: pawoo.net
-  public_comment: taken from a.rathersafe.space
+  public_comment: national socialism
   severity: suspend
 - hostname: memehub.eu
   public_comment: taken from a.rathersafe.space
@@ -452,13 +461,13 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: gameliberty.club
-  public_comment: taken from a.rathersafe.space
+  public_comment: racism, FreeSpeech, lolicon
   severity: suspend
 - hostname: spinster.xyz
-  public_comment: taken from a.rathersafe.space
+  public_comment: TransMisia, TERFism
   severity: suspend
 - hostname: baraag.net
-  public_comment: taken from a.rathersafe.space
+  public_comment: lolicon, ChildPorn
   severity: suspend
 - hostname: stupid.moe
   public_comment: taken from a.rathersafe.space
@@ -488,13 +497,13 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: shitposter.club
-  public_comment: taken from a.rathersafe.space
+  public_comment: racism
   severity: suspend
 - hostname: cyberfuck.club
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: kiwifarms.cc
-  public_comment: taken from a.rathersafe.space
+  public_comment: harassment, doxing, stalking, HomoMisia, TransMisia, racism
   severity: suspend
 - hostname: freethinkers.host
   public_comment: taken from a.rathersafe.space
@@ -506,7 +515,7 @@
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: freespeechextremist.com
-  public_comment: taken from a.rathersafe.space
+  public_comment: racism, HomoMisia, harassment
   severity: suspend
 - hostname: pl.smuglo.li
   public_comment: taken from a.rathersafe.space
@@ -550,7 +559,7 @@
 - hostname: traboone.com
   public_comment: taken from a.rathersafe.space
   severity: suspend
-- hostname: buildthatwallandmakeamericagreatagain.trumpislovetrumpis.life
+- hostname: trumpislovetrumpis.life
   public_comment: taken from a.rathersafe.space
   severity: suspend
 - hostname: lain.sh

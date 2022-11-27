@@ -26,10 +26,9 @@ def main():
     else:
       continue
 
-    if len(other) == 1:
+    instance['public_comment'] = other[1].text.rstrip()
+    if len(instance['public_comment']) == 0:
       instance['public_comment'] = other[0].text.rstrip()
-    if len(other) > 1:
-      instance['public_comment'] = other[1].text.rstrip()
 
     instances.append(instance)
 
