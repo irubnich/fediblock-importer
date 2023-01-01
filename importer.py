@@ -72,12 +72,16 @@ def aggregate(at_least, comment, hostnames):
     host_blocks = fetch_blocks(hostname)
     for block in host_blocks:
       domain, severity = itemgetter('domain', 'severity')(block)
+      if str(domain).find("*") > -1:
+        # Masked domain, which we can't use here
+        continue
       blocked = blocked_domains.get(domain, dict())
       # This ends up looking like:
       # malefactor.example.com:
       #   suspend: [trusted1.tld, trusted2.tld]
       #   silence: [trusted3.tld]
-      blocked[severity] = blocked.get(severity, list()) + list(hostname)
+      blocked[severity] = blocked.get(severity, list())
+      blocked[severity].append(hostname)
       blocked_domains[domain] = blocked
   to_block = list()
   for blocked_domain, blocks in blocked_domains.items():
@@ -181,7 +185,7 @@ def _block_hosts(token, instances):
     if existing_severity == 'suspend' or (existing_severity == 'silence' and severity == 'silence'):
       # Try to reduce requests, because the API will limit you after a few hundred.
       continue
-    verb = 'Suspending' if severity == 'suspend' else 'silence'
+    verb = 'Suspending' if severity == 'suspend' else 'Silencing'
     print(f'{verb} {hostname}... ', end='')
     response = requests.post(
       f'{url}/api/v1/admin/domain_blocks',
